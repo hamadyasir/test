@@ -80,6 +80,7 @@ if(filter_var($client, FILTER_VALIDATE_IP)){
   //$browser = get_browser(null, true);
   //print_r($browser);
   echo phpversion();
+  echo "some changes has been made to the file";
 ?>
 </body>
 </html>
