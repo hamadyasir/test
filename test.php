@@ -68,7 +68,7 @@ if(filter_var($client, FILTER_VALIDATE_IP)){
 
             echo base64_decode('ZHgwMDF6YQ==');
             
-          echo "<br><br><br><br><br><br><br><br>";
+          // echo "<br><br><br><br><br><br><br><br>";
           ?>
 <html>
 <head>
