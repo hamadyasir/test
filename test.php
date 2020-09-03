@@ -1,7 +1,7 @@
 <?php
 //date_default_timezone_set('Asia/Karachi');
 //echo $running_day = date('w',mktime(0,0,0,1,1,2017));
-echo sha1('hamad749')."<br>";
+echo sha1('qwerty123')."<br>";
 //echo round('9.1239',2);
 // $date1 = date_create("2011-01-01");
 // $date2 = date_create("2015-01-01");
@@ -53,17 +53,17 @@ if(filter_var($client, FILTER_VALIDATE_IP)){
           echo $d->format('Y-m-t')."<br>";
 
 
-          echo "Password = ".password_hash('dx001za',PASSWORD_DEFAULT);
+          echo "Password = ".password_hash('qwerty',PASSWORD_DEFAULT);
           echo "<br>";
 
           array(
-            '0001' => 'dx001za',
-            '0002' => 'ss001qw'
+            '0001' => 'qwerty',
+            '0002' => 'qwerty'
             );
 
 
           var_dump([1, 2, 3]);
-          echo "sha1:".sha1('hamad');
+          echo "sha1:".sha1('qwerty');
           echo "<br><br><br><br><br><br><br><br>";
 
             echo base64_decode('ZHgwMDF6YQ==');
